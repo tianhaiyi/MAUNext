@@ -11,6 +11,6 @@ a lightweight network for medical image segmentation
 | Ours| 2.88 | 3.37 |
 
 ## segmentation results
+![微信截图_20230425160904](https://user-images.githubusercontent.com/82251693/234214993-4bef21d7-3410-4a2d-a023-1c8517203095.png)
+![微信截图_20230425160916](https://user-images.githubusercontent.com/82251693/234215008-9d76f539-0b2d-42bb-b5cd-3ee0860584da.png)
 
-![chaos_0311](https://user-images.githubusercontent.com/82251693/234214606-25409561-7184-4eaf-97b4-f66a76a68712.png)
-![kvasir-SEG_0727](https://user-images.githubusercontent.com/82251693/234214624-8be1fbe9-0e95-4a47-9d9f-77c35bf000b3.jpg)
